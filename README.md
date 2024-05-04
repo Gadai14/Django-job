@@ -2,6 +2,15 @@
 <p><br>
   Welcome to Jobya, where career dreams meet reality. Our platform connects talented individuals with exciting career opportunities from top companies around the globe. Whether you're a seasoned professional or just starting your journey, Jobya has something for everyone. Browse through a diverse range of job listings, curated to match your skills and aspirations. With user-friendly features and intuitive navigation, finding your dream job has never been easier. Join Jobya today and take the next step towards a fulfilling career !
 </p>
+
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - biswajit1973.pal@gmail.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/8e1ca78a-ab71-4949-8190-360d54579583">
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/2480264e-de21-44ac-bc36-0d66b0282948">
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/d06d60de-190e-43ee-9e2e-7f8c57691630">
