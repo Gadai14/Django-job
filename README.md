@@ -26,12 +26,17 @@ Replace <repository_url> with the URL of your project's GitHub repository.
    ```sh
    cd <project_directory>
    ```
-3. Install Dependencies
-   ```
-   
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage 
+
+* Run the Development Server
+ ```
+python manage.py runserver
+```
+The development server will start running locally. You can access your Django project at http://localhost:8000 in your web browser.
 
 ## Contact
 
