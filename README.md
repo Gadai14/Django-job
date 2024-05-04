@@ -6,9 +6,9 @@
 
 ## Contact
 
-Name      - Abhijit Pal  
-Email     - biswajit1973.pal@gmail.com
-Linkedin  - https://www.linkedin.com/in/abhijit-pal-666451227/
+Name      - Abhijit Pal<br>
+Email     - biswajit1973.pal@gmail.com<br>
+Linkedin  - https://www.linkedin.com/in/abhijit-pal-666451227/<br>
 
 Project Link: 
 
