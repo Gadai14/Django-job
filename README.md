@@ -1,4 +1,4 @@
-<h1>🌟 Jobya: Your Gateway to Career Opportunities 🚀 </h1>
+<h1>🌟 Jobya : Your Gateway to Career Opportunities 🚀 </h1>
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/8e1ca78a-ab71-4949-8190-360d54579583">
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/2480264e-de21-44ac-bc36-0d66b0282948">
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/d06d60de-190e-43ee-9e2e-7f8c57691630">
