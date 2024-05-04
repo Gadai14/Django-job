@@ -15,20 +15,12 @@ Make sure you have the following installed on your machine:
 
 - Python  ( preferably Python 3.x )
 * pip  ( Python package installer )
-
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+1. Clone the Repository
+  ```sh
+  git clone <repository_url>
+  ```
 3. Install NPM packages
    ```sh
    npm install
