@@ -21,6 +21,8 @@ Make sure you have the following installed on your machine:
   ```sh
   git clone <repository_url>
   ```
+Replace <repository_url> with the URL of your project's GitHub repository.
+
 3. Install NPM packages
    ```sh
    npm install
