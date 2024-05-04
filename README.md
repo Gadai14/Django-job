@@ -3,6 +3,38 @@
 <p><br>
   Welcome to Jobya, where career dreams meet reality. Our platform connects talented individuals with exciting career opportunities from top companies around the globe. Whether you're a seasoned professional or just starting your journey, Jobya has something for everyone. Browse through a diverse range of job listings, curated to match your skills and aspirations. With user-friendly features and intuitive navigation, finding your dream job has never been easier. Join Jobya today and take the next step towards a fulfilling career !
 </p>
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
