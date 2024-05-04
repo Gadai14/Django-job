@@ -15,7 +15,7 @@ Make sure you have the following installed on your machine:
 
 - Python (preferably Python 3.x)
 * pip (Python package installer)
-* npm
+
   ```sh
   npm install npm@latest -g
   ```
