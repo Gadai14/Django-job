@@ -11,3 +11,9 @@
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/336a6529-d203-4e8c-8e84-bd8e227a1a31">
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/f7bd2c5d-635e-436f-a4b3-b95d63ec40ad">
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/b36423a6-473d-45d4-bee4-83a91fae5cb3">
+
+<img src="https://github.com/Gadai14/Django-job/assets/121002242/f609f36f-ef5a-4090-aba8-4edb082f3ed8">
+<img src="https://github.com/Gadai14/Django-job/assets/121002242/20c23c23-81e3-49bc-8213-b2e22c5fc23c">
+<img src="https://github.com/Gadai14/Django-job/assets/121002242/e2b8ad7f-c2ef-424a-be88-18332c0e7c27">
+<img src="https://github.com/Gadai14/Django-job/assets/121002242/e9abe582-7fb9-43b5-bc0e-380049b17e2b">
+<img src="https://github.com/Gadai14/Django-job/assets/121002242/767fa8c8-0217-4fd2-aa39-e2bfb0c7bc48">
