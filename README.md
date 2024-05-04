@@ -11,7 +11,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you have the following installed on your machine:
+
+- Python (preferably Python 3.x)
+* pip (Python package installer)
 * npm
   ```sh
   npm install npm@latest -g
