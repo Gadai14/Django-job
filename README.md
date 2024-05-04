@@ -1,5 +1,5 @@
 <h1>🌟 Jobya : Your Gateway to Career Opportunities 🚀 </h1>
-<p>
+<p><br>
   Welcome to Jobya, where career dreams meet reality. Our platform connects talented individuals with exciting career opportunities from top companies around the globe. Whether you're a seasoned professional or just starting your journey, Jobya has something for everyone. Browse through a diverse range of job listings, curated to match your skills and aspirations. With user-friendly features and intuitive navigation, finding your dream job has never been easier. Join Jobya today and take the next step towards a fulfilling career!
 </p>
 <img src="https://github.com/Gadai14/Django-job/assets/121002242/8e1ca78a-ab71-4949-8190-360d54579583">
