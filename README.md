@@ -22,14 +22,13 @@ Make sure you have the following installed on your machine:
   git clone <repository_url>
   ```
 Replace <repository_url> with the URL of your project's GitHub repository.
-
-3. Install NPM packages
+2. Navigate to the Project Directory
    ```sh
-   npm install
+   cd <project_directory>
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Install Dependencies
+   ```
+   
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
