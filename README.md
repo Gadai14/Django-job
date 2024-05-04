@@ -13,8 +13,8 @@ To get a local copy up and running follow these simple example steps.
 
 Make sure you have the following installed on your machine:
 
-- Python (preferably Python 3.x)
-* pip (Python package installer)
+- Python  ( preferably Python 3.x )
+* pip  ( Python package installer )
 
   ```sh
   npm install npm@latest -g
