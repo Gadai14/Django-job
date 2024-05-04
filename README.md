@@ -3,6 +3,7 @@
 <p><br>
   Welcome to Jobya, where career dreams meet reality. Our platform connects talented individuals with exciting career opportunities from top companies around the globe. Whether you're a seasoned professional or just starting your journey, Jobya has something for everyone. Browse through a diverse range of job listings, curated to match your skills and aspirations. With user-friendly features and intuitive navigation, finding your dream job has never been easier. Join Jobya today and take the next step towards a fulfilling career !
 </p>
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
